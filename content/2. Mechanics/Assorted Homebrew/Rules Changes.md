@@ -1,0 +1,24 @@
+---
+title: Miscellaneous Rules Changes
+draft: false
+tags:
+---
+# New Bonus Actions
+
+As in Baldur's Gate 3, shoving, dipping and consuming a potion now take a bonus action instead of an action. 
+
+# Banned Spells
+- Silvery Barbs: It causes too much buffoonery. Imagine if an enemy mage just gave you disadvantage on a whim.
+
+# Tavern Brawler 
+Accustomed to the rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
+
+- Increase your Strength or Consititution score by 1, to a maximum of 20.
+
+- You are proficient with improvised weapons.
+
+- Your unarmed strike uses a d4 for damage.
+
+- When you make an unarmed attack, use an improvised weapon, or throw something, your Strength Modifier is added twice to the damage.
+
+- When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
