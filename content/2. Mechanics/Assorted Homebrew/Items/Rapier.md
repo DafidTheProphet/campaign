@@ -1,3 +1,9 @@
+title: "Rapier"
+draft: false
+tags:
+  - 
+---
+ 
 **Martial Weapon**
 
 The rapier is a thin-bladed one-handed sword. The elites in Aenwidia favor this weapon for its portability and status.

@@ -1,3 +1,9 @@
+title: "Jian"
+draft: false
+tags:
+  - 
+---
+ 
 **Martial Weapon**
 
 The jian is a straight-edged, double-sided sword wielded in one hand. It is the favored weapon of most cultivators due to its versatility and speed.

@@ -1,3 +1,10 @@
+title: "Monk Changes"
+draft: false
+tags:
+  - 
+---
+ 
+
 Monk is rather underpowered. To buff this class, we give it heavy synergy with the cultivation system, all the optional features, and a rework of some key features. If a class feature is not mentioned here, assume it is unchanged from the base rules.
 
 ## Class Features

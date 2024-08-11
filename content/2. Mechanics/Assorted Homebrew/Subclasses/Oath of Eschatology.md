@@ -1,3 +1,10 @@
+title: "Oath of Eschatology"
+draft: false
+tags:
+  - 
+---
+ 
+
 This subclass is taken from [this page](https://www.dandwiki.com/wiki/Oath_of_Eschatology_(5e_Subclass)) at the DnD wiki, with some modifications.
 
 Paladins who swear the Oath of the Eschatology are driven by a profound understanding of the impending end times. They dedicate themselves to preserving balance, wielding divine power to bring about justice and protect the world from apocalyptic threats.

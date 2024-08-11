@@ -1,3 +1,10 @@
+title: "Thousand Demon Daggers"
+draft: false
+tags:
+  - 
+---
+ 
+
 **Weapon (jian), Artifact (Requires Attunement)**
 
 The Thousand Demon Daggers is a deep blue jian sheathed in an ebony scabbard. It deals 2d4 slashing or 1d8 piercing +3 (19/20 ×2) damage, plus 1d8 slashing/piercing damage. It has a range of 10 ft / 3 m. It automatically critically strikes when attacking an object. This weapon cannot be forcibly taken from the wielder. If the wielder drops the weapon, they can call it to their hand at will.

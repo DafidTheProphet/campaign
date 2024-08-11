@@ -1,3 +1,10 @@
+title: "Spear of Heaven and Earth"
+draft: false
+tags:
+  - 
+---
+ 
+
 **Weapon (spear), Artifact (Requires Attunement)**
 
 The Spear of Heaven and Earth is a radiant weapon forged from the essence of the sun and the core of the earth. It has a shaft of gleaming gold, and its blade is a shard of pure sunlight, bound in an ethereal, earth-toned aura.

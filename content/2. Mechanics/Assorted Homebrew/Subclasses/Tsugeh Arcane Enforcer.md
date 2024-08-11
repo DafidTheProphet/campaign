@@ -1,3 +1,10 @@
+title: "Tsugeh Arcane Enforcer"
+draft: false
+tags:
+  - 
+---
+ 
+
 ![[arcane_enforcer.png]]
 The Tsuheh Arcane Enforcers are highly trained wizards tasked with enacting the will of the Tsugeh. Their strength comes from their unparalleled versatility in combat, switching between melee and magic in a moment's notice. The training methods of Arcane Enforcers are a closely kept secret. Those outside the Tsugeh clan cannot adopt this arcane tradition.
 
