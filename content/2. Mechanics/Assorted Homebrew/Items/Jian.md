@@ -1,6 +1,3 @@
----
-title:
----
 
 ---
 title: "Jian"
@@ -8,7 +5,6 @@ draft: false
 tags:
   - 
 ---
-
 
 **Martial Weapon**
 
