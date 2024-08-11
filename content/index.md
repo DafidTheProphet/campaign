@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Campaign Wiki
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Peruse the wiki at your pleasure. Everything should be searchable. As always, notify me of any issues. If there is no content under a page, it is likely a work-in-progress. 
