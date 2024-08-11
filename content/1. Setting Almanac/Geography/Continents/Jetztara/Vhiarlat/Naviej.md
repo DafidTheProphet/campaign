@@ -1,4 +1,4 @@
-```
+
 ---
 title: "Naviej"
 draft: false
@@ -6,7 +6,7 @@ tags:
   - 
 ---
  
-```
+
 
 
 A picturesque tourist town in the middle of the Raedic Wheel, Naviej attracts visitors from all over [[0. Jetztara Overview|Jetztara]]. Just outside the town lie vast meadows of wild grasses and mountain flowers, enclosed by green rolling hills and massive snowcapped mountains. 
