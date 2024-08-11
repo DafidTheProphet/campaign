@@ -1,7 +1,7 @@
 ---
 title: Oath of Eschatology
 tags: 
-draft:
+draft: false
 ---
 
 This subclass is taken from [this page](https://www.dandwiki.com/wiki/Oath_of_Eschatology_(5e_Subclass)) at the DnD wiki, with some modifications.
