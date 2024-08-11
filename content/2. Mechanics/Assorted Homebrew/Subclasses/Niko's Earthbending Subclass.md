@@ -16,14 +16,14 @@ You gain the ability to use your internal energy to manipulate the surrounding e
 
   
 
-|   |   |   |   |
-|---|---|---|---|
-|Level|Max Qi Cost|Spell|Base Qi Cost|
-|3|2|Earth Tremor|1|
-|6|3|Maximillian’s Earthen Grasp|2|
-|11|4|Erupting Earth, Melf’s Minute Meteors (bludgeoning)|3|
-|14|5|Stoneskin (no concentration/material components required), Stone Shape|4|
-|17|6|Wall of Stone (no concentration required), Transmute Stone|5|
+|       |             |                                                                                   |              |
+| ----- | ----------- | --------------------------------------------------------------------------------- | ------------ |
+| Level | Max Qi Cost | Spell                                                                             | Base Qi Cost |
+| 3     | 2           | Earth Tremor                                                                      | 1            |
+| 6     | 3           | Maximillian’s Earthen Grasp                                                       | 2            |
+| 11    | 4           | Erupting Earth, Melf’s Minute Meteors (bludgeoning)                               | 3            |
+| 14    | 5           | Stoneskin (no concentration/material components required, self only), Stone Shape | 4            |
+| 17    | 6           | Wall of Stone (no concentration required), Transmute Stone                        | 5            |
 
 
 Lmk if u need more cc/versatility 

@@ -43,7 +43,7 @@ You tap into your magical abilities to bolster your melee prowess. You may use a
 - You gain advantage on ability checks using Intelligence.
 - You gain vulnerability to psychic damage.
 
-You may use this ability a number of times equal to your proficiency bonus.
+You may use this ability a number of times equal to your proficiency bonus. You regain uses of this ability upon a long rest. 
 
 ## Two Minds, One Body
 
