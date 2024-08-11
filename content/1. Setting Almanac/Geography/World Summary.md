@@ -1,6 +1,6 @@
 ```
 ---
-title: "Outline"
+title: "World Summary"
 draft: false
 tags:
   - 
