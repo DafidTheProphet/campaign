@@ -2,7 +2,7 @@ Contrary to their Guiding Palm brethren, the Adamantine Fist sect has a very dir
 
 ## Path Features
 
-**Cultivation Modifier**: Con or Str \
+**Cultivation Modifier**: Constitution or Strength \
 **Hit dice**: 2d12 per cultivation stage \
 **Hit points**: 2d12 (or 13)+ Constitution modifier
 
