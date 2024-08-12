@@ -1,6 +1,6 @@
 Contrary to their Guiding Palm brethren, the Adamantine Fist sect has a very direct outlook on martial arts. The path of the Adamantine fist emphasizes brute force and durability to defeat their foes. Their martial arts eschew complicated maneuvers for maximum power. 
 
-## Path Features
+# Path Features
 
 **Cultivation Modifier**: Constitution or Strength \
 **Hit dice**: 2d12 per cultivation stage \
@@ -8,7 +8,8 @@ Contrary to their Guiding Palm brethren, the Adamantine Fist sect has a very dir
 
 ## Reforged Martial Body: Immovable Physique
 
-- Your body is hardened through intense training, granting you an impenetrable physique. You may reduce any incoming slashing, piercing or bludgeoning damage by your cultivation proficiency -1. 
+Your body is hardened through intense training, granting you an impenetrable physique. 
+- You may reduce any incoming slashing, piercing or bludgeoning damage by your cultivation proficiency -1. 
 - You gain a +2 bonus to AC.
 - Your unarmed strikes deal an additional 1d4 bludgeoning damage.
 
