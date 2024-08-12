@@ -1,9 +1,9 @@
 Contrary to their Adamantine Fist brethren, the Guiding Palm sect believes in defeating opponents softly. Their techniques revolve around defense and redirecting enemy attacks, instead of excessive force. Their martial arts eschew brute force, for precise technique and patient defenses. 
 
 ## Path Features
-Cultivation Modifier: Wis or Cha
-Hit dice: 2d8 per cultivation stage 
-Hit points: 2d8 (or 9)+ Constitution modifier
+**Cultivation Modifier**: Wis \
+**Hit dice**: 2d8 per cultivation stage \
+**Hit points**: 2d8 (or 9)+ Constitution modifier 
 
 ## Reforged Martial Body: Supreme Sanctified Constitution
 
