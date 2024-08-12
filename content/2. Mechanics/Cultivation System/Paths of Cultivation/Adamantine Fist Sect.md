@@ -5,7 +5,7 @@ Contrary to their Guiding Palm brethren, the Adamantine Fist sect has a very dir
 **Cultivation Modifier**: Con or Str \
 **Hit dice**: 2d12 per cultivation stage \
 **Hit points**: 2d12 (or 13)+ Constitution modifier
- 
+
 ## Reforged Martial Body: Immovable Physique
 
 - Your body is hardened through intense training, granting you an impenetrable physique. You may reduce any incoming slashing, piercing or bludgeoning damage by your cultivation proficiency -1. 
