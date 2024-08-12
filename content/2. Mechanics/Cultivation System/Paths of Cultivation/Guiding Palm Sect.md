@@ -3,7 +3,7 @@ Contrary to their Adamantine Fist brethren, the Guiding Palm sect believes in de
 ## Path Features
 **Cultivation Modifier**: Wis \
 **Hit dice**: 2d8 per cultivation stage \
-**Hit points**: 2d8 (or 9)+ Constitution modifier 
+**Hit points**: 2d8 (or 9)+ Constitution modifier
 
 ## Reforged Martial Body: Supreme Sanctified Constitution
 
