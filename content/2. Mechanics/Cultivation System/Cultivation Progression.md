@@ -16,10 +16,13 @@ tags:
 | Nascent Soul                  | 1000 yrs          | 16        | +6             | Path Laws, Second Life                                  |
 | Peerless Immortal             | Immortal          | 22        | +7             | Supreme Authority, Dao Culmination                      |
 ## Cultivation Ability Checks
-- Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. Your cultivation modifier affects a variety of 
+Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. Your cultivation modifier determines the potency of your qi techniques. The Cultivation/Qi DC of your character is calculated using the following formula: 8 + Cultivation Proficiency + Cultivation Modifier. 
+
+## Body Refinement
+As you advance in your cultivation, your constitution becomes more robust. You gain additional hit points per cultivation stage as determined by your cultivation path. Additionally, at the foundation establishment stage, all ability scores are raised to 13 if they were previously lower. 
 
 ## Path Techniques
-- Each cultivation path has their own version of Reforged Martial Body, Path Initiate Technique, Internal Path Technique, External Path Technique, Path Laws, and Dao Culmination. 
+Each cultivation path has their own version of Reforged Martial Body, Path Initiate Technique, Internal Path Technique, External Path Technique, Path Laws, and Dao Culmination. 
 
 ## Qinggong
 
