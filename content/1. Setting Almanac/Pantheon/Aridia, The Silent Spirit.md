@@ -3,4 +3,6 @@ title: Aridia, The Silent Spirit
 draft: false
 tags:
 ---
-True Neutral
+Aridia is the Divine personification of the white dwarf at the center of the star system. Quite literally outshined by her more radiant sibling, she is rarely seen from Panomar. She is only visible during a stellar eclipse, where she interposes herself in the path of Fecundus' light. 
+
+She is the patron of those invisible to society. Beggars, orphans, unrecognized talents, the impoverished, and the lonely see themselves in her. Her eclipse is commemorated with community feasts and gatherings. During the commemoration, it is traditional to reveal a personal secret, such as a crush on an associate, or regrets from times past. 
