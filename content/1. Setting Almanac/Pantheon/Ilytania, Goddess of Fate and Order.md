@@ -4,3 +4,5 @@ draft: false
 tags:
 ---
 Lawful Neutral
+
+Forbids fire in her temple. 
