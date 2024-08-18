@@ -15,7 +15,7 @@ Your body is hardened through intense training, granting you an impenetrable phy
 
 ## Path Initiate Technique: Dantian Fracture
 
-- As an action, spend 1 qi point to strike directly at their dantian with a devastating impact. On a hit, you deal normal unarmed strike damage plus an additional 2d6 force damage. The target must make a Constitution saving throw (DC = 8 + your proficiency bonus + your cultivation modifier). On a failure, the target is dazed until the end of your next turn. When attacking a non-cultivator, they only suffer half the additional damage and no additional effects.
+- As an action, spend 1 qi point to strike directly at their dantian with a devastating impact. On a hit, you deal normal unarmed strike damage plus an additional 2d6 force damage. The target must make a Constitution saving throw (DC = 8 + your cultivation proficiency bonus + your cultivation modifier). On a failure, the target is dazed until the end of your next turn. When attacking a non-cultivator, they only suffer half the additional damage and no additional effects.
 
 ## Internal Path Technique: Immovable Object
 
