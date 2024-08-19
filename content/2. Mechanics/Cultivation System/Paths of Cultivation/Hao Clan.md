@@ -2,7 +2,7 @@
 
 **Cultivation Modifier**: Charisma\
 **Hit dice**: 2d8 per cultivation stage \
-**Hit points**: 2d8 (or 9)+ Constitution modifier
+**Hit points**: 2d8 (or 9) + Constitution modifier
 
 ## Reforged Martial Body: Enthralling Presence
 

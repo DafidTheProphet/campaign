@@ -26,7 +26,7 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 
 ## Qinggong
 
-- Spend 1 qi point to gain a fly speed of equal to your cultivation proficiency times 5 for 2 rounds.
+- Spend 1 qi point to gain a fly speed of equal to your cultivation proficiency times 5 (in ft) for 2 rounds.
 - Through meditative breathing, you regain part of your inner qi. You gain half your qi points rounded down upon a short rest. Monks regain all qi points during a short rest.
 
 ## Qi Intent

@@ -3,7 +3,7 @@
 
 **Cultivation Modifier**: Intelligence \
 **Hit dice**: 2d6 per cultivation stage \
-**Hit points**: 2d6 (or 7)+ Constitution modifier
+**Hit points**: 2d6 (or 7) + Constitution modifier
 
 ## Reforged Martial Body: Supreme Sapphire Mind
 

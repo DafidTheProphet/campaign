@@ -2,9 +2,9 @@ The members of the abyssal cult will sacrifice anything for power. They will end
 
 # Path Features
 
-**Cultivation Modifier**: Con or Cha \
+**Cultivation Modifier**: Constitution or Charisma \
 **Hit dice**: 2d10 per cultivation stage \
-**Hit points**: 2d10 (or 13)+ Constitution modifier
+**Hit points**: 2d10 (or 13) + Constitution modifier
 
 ## Reforged Martial Body: Unhindered Destruction Constitution
 

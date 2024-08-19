@@ -4,7 +4,7 @@ Contrary to their Adamantine Fist brethren, the Guiding Palm sect believes in de
 
 **Cultivation Modifier**: Wisdom \
 **Hit dice**: 2d8 per cultivation stage \
-**Hit points**: 2d8 (or 9)+ Constitution modifier
+**Hit points**: 2d8 (or 9) + Constitution modifier
 
 ## Reforged Martial Body: Supreme Sanctified Constitution
 
