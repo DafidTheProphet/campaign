@@ -1,4 +1,4 @@
-The members of the abyssal cult will sacrifice anything for power. They will endure the harshest trials, betray their allies, and plunder resources to gain an edge over their opponent. 
+The members of the draconic cult will sacrifice anything for power. They will endure the harshest trials, betray their allies, and plunder resources to gain an edge over their opponent. 
 
 # Path Features
 

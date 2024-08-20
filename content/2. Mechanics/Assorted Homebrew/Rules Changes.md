@@ -22,3 +22,7 @@ Accustomed to the rough-and-tumble fighting using whatever weapons happen to be 
 - When you make an unarmed attack, use an improvised weapon, or throw something, your Strength Modifier is added twice to the damage.
 
 - When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+
+# Initiative
+
+We will use a d10 to roll initiative instead of a d20. This makes building for high initiative more rewarding. 

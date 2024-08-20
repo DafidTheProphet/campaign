@@ -4,3 +4,7 @@ draft: false
 tags:
 ---
 Neutral Good
+
+"You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I say to you, Do not resist one who is evil. But if any one strikes you on the right cheek, turn to him the other also; 40 and if any one would sue you and take your coat, let him have your cloak as well" - Matthew 5:39-40
+
+Ilmater is the most beloved and worshipped god on the Jetztaran continent. In almost every settlement, save for those in the Dominion of Sun and Moon, you can find a church of Ilmater. Their followers provide healing and alms to those most in need. Their operations are funded by a large number of generous donors. 

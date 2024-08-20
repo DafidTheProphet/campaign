@@ -44,4 +44,4 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 - You may attack an additional time when taking the attack action. This stacks with existing extra attack class features.
 
 ## Inner Soul
-- Upon death, your soul dissociates from your body, as if casting the astral projection spell. You may attempt to possess a body. If the owner is unwilling, they may attempt a CHA save vs. your cultivation DC to resist. Once you fail to possess a target, you may not attempt to possess the target again. If the target is willing, no save is necessary. Upon possession, you adopt their class levels and lose your own. In addition, you must rest for three days to regain your cultivation features.
+- Upon death, your soul dissociates from your body. Your soul takes the form of a small ghost. By default, you are invisible, but you may choose to reveal yourself. 
