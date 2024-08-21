@@ -29,18 +29,18 @@ The martial arts dice have their value buffed slightly.
 | Level | Dice |
 | ----- | ---- |
 | 1-3   | 1d6  |
-| 4-7   | 1d8  |
-| 8-10  | 1d10 |
-| 11-13 | 2d6  |
-| 14-16 | 2d8  |
-| 17-20 | 2d10 |
+| 4-8   | 1d8  |
+| 9-13  | 1d10 |
+| 14-17 | 2d6  |
+| 17-20 | 2d8  |
+
 
 ## Martial Arts
 
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are weapons the monk has proficiency in. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor, wielding a shield, or using the blade song feature:
 
 - You can use Dexterity instead of Strength for athletics checks, and attack and damage rolls of your unarmed strikes and monk weapons.
-- You can roll a d4 + mod in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+- You can roll a d6 + mod in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 - You can make one unarmed strike as a bonus action.
 - If your monk weapon has a smaller hit die than your martial arts die, you may use your martial arts die instead.
 
