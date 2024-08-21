@@ -34,7 +34,7 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 
 ## Qi Enhanced Strikes
 
-- You may spend a qi point to add your cultivation modifier to an attack roll or damage roll. You may spend 2 qi points to add your modifier to both.
+- You may spend a qi point to add your cultivation modifier to an attack roll. Attacks enhanced in this manner slice through unenchanted metal, stone, and weaker materials.
 
 ## Qi Defense
 

@@ -5,7 +5,7 @@ tags:
 ---
 # New Bonus Actions
 
-As in Baldur's Gate 3, shoving, dipping and consuming a potion now take a bonus action instead of an action. 
+As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now take a bonus action instead of an action. If you choose to shove as a bonus action, you may only move them away 5ft, not knock them prone. 
 
 # Banned Spells
 - Silvery Barbs: It causes too much buffoonery. Imagine if an enemy mage just gave you disadvantage on a whim.
