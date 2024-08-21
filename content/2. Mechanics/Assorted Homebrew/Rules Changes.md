@@ -13,7 +13,7 @@ As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now tak
 # Tavern Brawler 
 Accustomed to the rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
 
-- Increase your Strength or Consititution score by 1, to a maximum of 20.
+- Increase your Strength or Constitution score by 1, to a maximum of 20.
 
 - You are proficient with improvised weapons.
 
