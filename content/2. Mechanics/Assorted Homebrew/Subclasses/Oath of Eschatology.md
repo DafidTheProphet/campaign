@@ -18,20 +18,20 @@ Paladins who follow the Oath of the Eschatology adhere to the following tenets:
 
 ## Oath Spells
 
-|Level|Spells|
-|---|---|
-|3|Protection from Evil and Good, Detect Magic|
-|5|Misty Step, Zone of Truth|
-|9|Counterspell, Dispel Magic|
-|13|Otiluke's Resilient Sphere, Aura of Purity|
-|17|Scrying, Wall of Force|
+| Level | Spells                                      |
+| ----- | ------------------------------------------- |
+| 3     | Protection from Evil and Good, Detect Magic |
+| 5     | Misty Step, Zone of Truth                   |
+| 9     | Counterspell, Dispel Magic                  |
+| 13    | Otiluke's Resilient Sphere, Aura of Purity  |
+| 17    | Scrying, Wall of Force                      |
 
 ## Channel Divinity
 
 At 3rd level, you gain the following Channel Divinity options:
 
 - **Divine Balance**. You can use your Channel Divinity to restore balance to the battlefield. As an action, you present your holy symbol and choose up to three creatures within 30 feet of you. Each chosen creature must make a Charisma saving throw. On a failed save, the creature is affected by either _calm emotions_ or _wrathful smite_ (your choice). The chosen creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
-- **Prophecy's Gaze**. You can use your Channel Divinity to gain insights into the future. As an action, you close your eyes and concentrate for 1 minute, during which you can sense the potential outcomes of events that will occur within the next hour. You gain advantage on your next Wisdom (Perception) check, Wisdom (Insight) check, or Dexterity saving throw before the end of your next turn.
+- **Prophecy's Gaze**. You can use your Channel Divinity to gain insights into the future. As an action, you close your eyes and concentrate for 1 minute, during which you can sense the potential outcomes of events that will occur within the next hour. You may ask the DM for an omen regarding a course of action that occurs within the next hour, similar to the augury spell.  In addition, you gain advantage on your next Wisdom (Perception) check, Wisdom (Insight) check, or Dexterity saving throw.
 
 ## Aura of Order
 
