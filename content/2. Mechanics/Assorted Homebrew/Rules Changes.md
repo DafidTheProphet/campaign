@@ -5,7 +5,7 @@ tags:
 ---
 # New Bonus Actions
 
-As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now take a bonus action instead of an action. If you choose to shove as a bonus action, you may only move them away 5ft, not knock them prone. 
+As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now take a bonus action instead of an action. If you choose to shove as a bonus action, you may only move them away 5ft, not knock them prone. Taking the shield master feet lets you do both as a bonus action.
 
 # Banned Spells
 - Silvery Barbs: It causes too much buffoonery. Imagine if an enemy mage just gave you disadvantage on a whim.
@@ -26,3 +26,6 @@ Accustomed to the rough-and-tumble fighting using whatever weapons happen to be 
 # Initiative
 
 We will use a d10 to roll initiative instead of a d20. This makes building for high initiative more rewarding. 
+
+# Healing Potions
+If a potion of healing is used as a bonus action, you roll the dice to determine the amount of HP healed. If you use an action, or take the potion outside of combat, then you are healed for the maximum amount of HP (ex: 2d4+2 --> 10). 
