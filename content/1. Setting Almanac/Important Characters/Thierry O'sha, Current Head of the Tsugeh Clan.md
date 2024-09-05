@@ -1,5 +1,5 @@
 ---
-title: Lord Elder Thierry O'sha, Current Head of the Tsugeh Clan
+title: Thierry O'sha, Current Head of the Tsugeh Clan
 draft: false
 tags:
 ---
