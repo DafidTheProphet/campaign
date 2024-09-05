@@ -9,10 +9,10 @@ tags:
 | ------------------------ | ----------------- | --------- | -------------- | ------------------------------------------------------- |
 | Level                    | Lifespan Increase | Qi Points | Qi Proficiency | Features                                                |
 | Body Refinement          | 10 yrs            | 2         | +2             | Reforged Martial Body, Base Qinggong technique          |
-| Qi Condensation          | 20 yrs            | 4         | +3             | Path Initiate Technique, Qi Intent                      |
-| Foundation Establishment | 50 yrs            | 7         | +4             | Internal Path Technique, Qi Enhanced Strikes            |
-| Core Formation           | 200 yrs           | 11        | +5             | External Path Technique, Qi Defense, Supernatural Speed |
-| Nascent Soul             | 1000 yrs          | 16        | +6             | Path Laws, Second Life                                  |
+| Qi Condensation          | 25 yrs            | 6         | +3             | Path Initiate Technique, Qi Intent                      |
+| Foundation Establishment | 50 yrs            | 10        | +4             | Internal Path Technique, Qi Enhanced Strikes            |
+| Core Formation           | 80 yrs            | 14        | +5             | External Path Technique, Qi Defense, Supernatural Speed |
+| Nascent Soul             | 150 yrs           | 18        | +6             | Path Laws, Second Life                                  |
 | Peerless Immortal        | Immortal          | 22        | +7             | Supreme Authority, Dao Culmination                      |
 ## Cultivation Ability Checks
 Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. Your cultivation modifier determines the potency of your qi techniques. The Cultivation/Qi DC of your character is calculated using the following formula: 8 + Cultivation Proficiency + Cultivation Modifier. 
@@ -25,7 +25,7 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 
 ## Qinggong
 
-- Spend 1 qi point to gain a fly speed of equal to your cultivation proficiency times 5 (in ft) for 2 rounds.
+- Spend 1 qi point to gain a fly speed of equal to your cultivation proficiency times 5 (in ft.) for 2 rounds.
 - Through meditative breathing, you regain part of your inner qi. You regain your qi points upon a short rest. 
 
 ## Qi Intent
