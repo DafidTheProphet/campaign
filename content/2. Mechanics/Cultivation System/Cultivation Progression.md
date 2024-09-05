@@ -5,7 +5,6 @@ tags:
 ---
 # Cultivation Stages
 
-
 |                          |                   |           |                |                                                         |
 | ------------------------ | ----------------- | --------- | -------------- | ------------------------------------------------------- |
 | Level                    | Lifespan Increase | Qi Points | Qi Proficiency | Features                                                |
@@ -34,7 +33,7 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 
 ## Qi Enhanced Strikes
 
-- You may spend a qi point to add your cultivation modifier to an attack roll. Attacks enhanced in this manner slice through unenchanted metal, stone, and weaker materials.
+- You may spend a qi point to add your cultivation modifier to a damage roll. Attacks enhanced in this manner slice through unenchanted metal, stone, and weaker materials.
 
 ## Qi Defense
 
