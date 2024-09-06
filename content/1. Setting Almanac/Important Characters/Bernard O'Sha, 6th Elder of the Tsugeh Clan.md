@@ -1,5 +1,5 @@
 ---
-title: Bernard O'Sha. 6th Elder of the Tsugeh Clan
+title: Bernard O'Sha, 6th Elder of the Tsugeh Clan
 draft: false
 tags:
 ---

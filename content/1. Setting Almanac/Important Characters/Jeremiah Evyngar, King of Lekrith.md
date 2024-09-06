@@ -3,4 +3,4 @@ title: Jeremiah Evyngar, King of Lekrith
 draft: false
 tags:
 ---
-A rather large and boisterous man, the King of Lekrith dwarfs any that stand beside him. He values those who 
+Jeremiah Evyngar is the ruling monarch of the Lekrith Kingdom, and head of the Lekrith-Evyngar clan. He has an ongoing rivalry with the elders of the Tsugeh clan. 
