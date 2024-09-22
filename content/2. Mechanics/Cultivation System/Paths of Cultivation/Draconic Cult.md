@@ -16,12 +16,11 @@ You sacrifice your defenses and inner well-being to inflict the maximum amount o
 
 ## Path Initiate Technique: Vitality Harvest
 
-- Spend a qi point to make a single melee weapon attack against a creature, adding your cultivation modifier to the attack and damage rolls. On a hit, the target takes normal weapon damage, and you regain hit points equal to your cultivation proficiency bonus. Additionally, the target must succeed on a Constitution saving throw or suffer from a lingering effect:
+- Once per turn, you may spend a qi point as part of a melee attack roll to activate this ability. On a hit, you gain temporary hit points equal to half your damage. Additionally, the target must succeed on a Constitution saving throw or suffer from a lingering effect:
 	- If the target fails the saving throw, it gains vulnerability to necrotic damage until the end of your next turn, as its life force is destabilized.
-	- If the target succeeds on the saving throw, it resists the necrotic influence, avoiding the vulnerability effect.
 
 ## Internal Path Technique: Sacrificial Demonic Foundation
 
 - Abyssal Surge: You can expend a hit die to add your hit die roll plus your cultivation modifier to the damage of your next weapon attack. This damage is necrotic. You may only use this ability once per turn. 
-- When you use vitality harvest, you also gain temporary hit points equal to your cultivation proficiency (which are converted). 
+- When you use vitality harvest, you also regain hit points equal to your cultivation proficiency. 
 - Life Drain: Whenever you reduce a creature to 0 hit points with a melee attack, you can use your reaction to regain hit points equal to your cultivation modifier + your proficiency bonus.

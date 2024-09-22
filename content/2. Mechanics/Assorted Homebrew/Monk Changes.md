@@ -34,7 +34,6 @@ The martial arts dice have their value buffed slightly.
 | 14-17 | 2d6  |
 | 17-20 | 2d8  |
 
-
 ## Martial Arts
 
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are weapons the monk has proficiency in. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor, wielding a shield, or using the blade song feature:
@@ -45,7 +44,6 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 - If your monk weapon has a smaller hit die than your martial arts die, you may use your martial arts die instead.
 
 ## Stunning Strike
-
 
 Starting at 5th level, you can interfere with the flow of qi in an opponent's body. When you hit another creature with a monk weapon or unarmed strike, you can spend 1 qi point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the start of your next turn. Upon a failure, the target's speed is halved and the next attack made against them is done so with advantage.
 
