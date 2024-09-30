@@ -14,7 +14,7 @@ Your slovenly appearance catches your enemies off guard.
 - You gain a bonus to stealth and deception checks equal to your cultivation modifier.
 
 ## Path Initiate Technique: Misery Loves Company
-Your weapon strikes aim to cripple your foe. Spend a qi point and make an attack at a -5 penalty. If the attack lands, invoke one of the following effects:
+Your weapon strikes aim to cripple your foe. Spend a qi point and make an attack at a -2 penalty. If the attack lands, invoke one of the following effects:
 - Clubbing a Foot: When an enemy willingly moves more than half their maximum walking speed, they must make a DC 20 dexterity check or fall prone. 
 - Armed No More: When the affected creature makes a melee attack, it takes 2d4 damage and must make a DC 15 CON check or drop its weapon. 
 - Cultivate me not: Striking directly at the dantian, the target must make a constitution saving throw (Cultivation Save DC)  or receive 3d8 bludgeoning damage and be immobilized until the end of their next turn.
