@@ -19,3 +19,7 @@ The poisons in your body has been further refined by intensive cultivation.
 - You subtract your cultivation modifier from any poison damage you receive. 
 - In addition, your blood poison becomes more potent. It now deals 4d6 poison damage per turn and the save DC increases to 16. 
 - You may elect to deal acid damage instead of poison damage when using your blood poison. If you choose to do so, the enemy does not suffer a movement speed penalty on a failed saving throw. 
+
+## External Path Technique: Seven Heavenly Daggers art
+
+- As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). Upon contact, an enemy must make a dexterity saving throw or take 7d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction.

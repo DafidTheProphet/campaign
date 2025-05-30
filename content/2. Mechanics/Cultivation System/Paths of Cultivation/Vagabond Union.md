@@ -30,3 +30,10 @@ Your powers of observation spot flaws others would miss and reveal key informati
 	- Reveal any status conditions that affect 1 enemy
 - You may spend these observation points whenever you wish. You lose all observation points after a battle ends.
 
+## External Path Technique: Dog Beating Staff
+
+- A signature martial technique honed to confuse, disarm, and humiliate.
+- Effect: As an action, spend 3 qi points and make a single melee weapon attack. On a hit, you may choose one of the following effects
+	- Crumpling Blow: Target’s speed is halved and they cannot take reactions until the end of their next turn.
+	- Mocking Strike: Target has disadvantage on all attack rolls until they hit you or the end of their next turn.
+	- Sudden Turnaround: Immediately after hitting, you may teleport to another point within 10 feet and make a second attack as a bonus action.

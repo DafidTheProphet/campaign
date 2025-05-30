@@ -24,4 +24,4 @@ Your body is hardened through intense training, granting you an impenetrable phy
 
 ## External Path Technique: Unstoppable Force
 
-- As an action, you spend 5 qi points to blast an enemy with the power of your qi. The enemy must make a DEX save versus your cultivation DC or suffer 8d12 force damage and be hurled 100ft away from you, falling prone. If the enemy hits a wall, they suffer additional bludgeoning damage depending on the properties of the wall (DM discretion). Upon a successful save, they take half damage, are only launched 15 feet, and do not fall prone.
+- As an action, you spend 5 qi points to blast an enemy with the power of your qi. The enemy must make a DEX save versus your cultivation DC or suffer 7d12 force damage and be hurled 100ft away from you, falling prone. If the enemy hits a wall, they suffer additional bludgeoning damage depending on the properties of the wall (DM discretion). Upon a successful save, they take half damage, are only launched 15 feet, and do not fall prone.
