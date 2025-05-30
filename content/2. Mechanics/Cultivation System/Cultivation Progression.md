@@ -8,7 +8,7 @@ tags:
 |                          |                   |           |                |                                                         |
 | ------------------------ | ----------------- | --------- | -------------- | ------------------------------------------------------- |
 | Level                    | Lifespan Increase | Qi Points | Qi Proficiency | Features                                                |
-| Body Refinement          | 10 yrs            | 2         | +2             | Reforged Martial Body, Base Qinggong technique          |
+| Body Refinement          | 10 yrs            | 2         | +2             | Reforged Martial Body, Qinggong                         |
 | Qi Condensation          | 25 yrs            | 6         | +3             | Path Initiate Technique, Qi Intent                      |
 | Foundation Establishment | 50 yrs            | 10        | +4             | Internal Path Technique, Qi Enhanced Strikes            |
 | Core Formation           | 80 yrs            | 14        | +5             | External Path Technique, Qi Defense, Supernatural Speed |

@@ -38,7 +38,7 @@ At 6th level, you can attack twice, instead of once, whenever you take the Attac
 
 At 10th level, you tap into your magical abilities to bolster your melee prowess. You may use a bonus action to enter into a trance for ten minutes. The trance grants you the following:
 
-- You may add your Intelligence modifier to your attack rolls. This bonus increases to double your Intelligence modifier at level 16.
+- You may add your Intelligence modifier to your attack rolls. 
 - You gain a +2 bonus to concentration saving throws.
 - You gain advantage on ability checks using Intelligence.
 - You gain vulnerability to psychic damage.

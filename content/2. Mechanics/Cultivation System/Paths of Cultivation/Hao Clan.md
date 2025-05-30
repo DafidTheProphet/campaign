@@ -13,7 +13,7 @@
 ## Initial Path Technique: Beguiling Melody
 
 - As an action, spend 1 qi point to weave a mesmerizing melody that affects creatures within 30 feet of you. Each creature of your choice that can hear you must make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier).
-- On a failed save, a target is beguiled by you for 1 minute or until it takes damage. While beguiled in this way, you can use a bonus action to force the creature to move 15ft in any direction, provided it does not lead to direct harm (off a cliff, provoking an opportunity attack, etc).
+- On a failed save, a target is beguiled by you for 1 minute or until it takes damage. While beguiled in this way, you can use a bonus action to force all beguiled creatures to move 15ft in any direction, provided it does not lead to direct harm (off a cliff, provoking an opportunity attack, etc).
 - Creatures that are immune to charm are also immune to beguiled. Creatures that have advantage against charmed effects also apply this to beguiled saving throws.
 - You gain 10 feet of movement whenever a creature fails its saving throw.
 
