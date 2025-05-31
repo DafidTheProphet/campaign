@@ -31,4 +31,11 @@ As an action, spend 1 qi point and make a single melee weapon attack with a swor
 
 ## External Path Technique: Interposing Hand
 
-- You spend 4 qi points to manifest a ghostly hand in front of your opponent. For 1 minute, when that foe makes a melee or ranged attack, their attack roll must be greater than your cultivation DC or the attack misses, regardless of the target’s AC. They may use an action to make a contested cultivation check to dispel this construct. You may only have 1 interposing hand active at a time. 
+- As an action, you spend 4 qi points to manifest a ghostly hand in front of your opponent. For 1 minute, when that foe makes a melee or ranged attack, their attack roll must be greater than your cultivation DC or the attack misses, regardless of the target’s AC. They may use an action to make a contested cultivation check to dispel this construct. You may only have 1 interposing hand active at a time. 
+
+## Path Law: Laminar Grace
+
+- You gain immunity to being grappled, restrained, or knocked prone unless you choose to be. 
+- Once per round, when an enemy uses a reaction, legendary action, or bonus action, you may immediately take a special bonus action (even if you've already used one this turn). You may:
+	- Use the Harmonious Wave Technique
+	- Take the Dodge, Disengage, or Help action

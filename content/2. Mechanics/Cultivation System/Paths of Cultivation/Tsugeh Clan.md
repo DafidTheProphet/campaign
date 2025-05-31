@@ -16,7 +16,7 @@
 
 - As an action, you may spend 2 qi points to lay a trap below your feet. To detect the trap, the target may make a perception or arcana check versus your qi save dc. Any enemy who walks within 5ft of this trap must make a DEX save (Qi DC) or be paralyzed for 5 turns. The target may use an action to attempt a STR saving throw vs. Qi DC each turn to escape. The trap is active until it dissipates. 
 
-## Internal Path Technique: Eyes of Diamond Clarity
+## Internal Path Technique: Eyes of Crystal Clarity
 
 - You gain the ability to see through illusions and magical darkness as if they were not present, providing you with true sight up to 30 feet.
 
@@ -24,6 +24,24 @@
 
 - You can cast Detect Thoughts at will without expending a spell slot, using your cultivation save DC. Additionally, when you use this ability, you can also impose disadvantage on the target's Wisdom saving throws against your spells and abilities for the next minute.
 
-## External Path Technique:  Heaven and Earth Divine Net Formation
+## External Path Technique: Heaven and Earth Divine Net Formation
 
-- Using an action and spending 3 qi points, you disperse your qi to trap enemies and foes alike. All entities within a 60 foot radius are unable to leave the area. In addition, enemies have their movement speed halved and suffer a -2 AC penalty. Allies gain 10ft of movement speed and +2 AC. This lasts until the caster is incapacitated. 
+- Using an action and spending 3 qi points, you disperse your qi to trap enemies and foes alike. All entities within a 60 foot radius are unable to leave the area. In addition, enemies have their movement speed halved and suffer a -2 AC penalty. Allies gain 10ft of movement speed and +2 AC. This lasts until the caster is incapacitated, or until dispelled in some other manner. 
+
+## Path Law: Unbreakable Diamond Psyche
+
+- When an enemy targets you with an illusion, enchantment, psychic attack, or scrying event, they must succeed an intelligence saving throw vs your cultivation DC.
+	- On failure, suffer 3d10 psychic damage and be unable to concentrate on any spells. 
+	- This only affects 1 creature per round. 
+- Your mind is deeply connected your qi constructs. If an enemy is caught in your Interdicting Talisman Array or Heaven and Earth Divine Net Formation at the start of your turn, you gain the ability to call their turn.
+	- Select one of the following actions and record it in a folded piece of paper during your turn (if conducting an online session, send to the DM in spoiler tags):
+		- Melee weapon attack
+		- Ranged weapon attack
+		- Melee spell attack
+		- Ranged spell attack
+		- Spell from x school
+		- Defensive action (dodge/disengage)
+		- Retreat (dash)
+		- None of the above
+	- If your prediction is correct, they are stunned until the next turn, and take 5d10 psychic damage. 
+	- If your prediction is incorrect, you receive 2d10 psychic damage. 

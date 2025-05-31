@@ -37,3 +37,11 @@ Your powers of observation spot flaws others would miss and reveal key informati
 	- Crumpling Blow: Target’s speed is halved and they cannot take reactions until the end of their next turn.
 	- Mocking Strike: Target has disadvantage on all attack rolls until they hit you or the end of their next turn.
 	- Sudden Turnaround: Immediately after hitting, you may teleport to another point within 10 feet and make a second attack as a bonus action.
+
+## Path Law: The Vagrant's Stumble
+
+- Once per turn, when you make an attack or use a technique, you may declare it unscripted. 
+	- You take -2 to hit or saving throw DC, but:
+		- If the attack hits, it cannot be reacted to. 
+		- If it misses, you may dash or disengage as a free action. 
+- While in motion, you are ethereal. You do not trigger any traps, attacks of opportunity, or cultivation techniques that would otherwise be triggered by passing through them. Additionally, you can escape any effect that would reduce your speed, force your movement, or restrain you. 

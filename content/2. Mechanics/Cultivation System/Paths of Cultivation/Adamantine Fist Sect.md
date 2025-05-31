@@ -25,3 +25,9 @@ Your body is hardened through intense training, granting you an impenetrable phy
 ## External Path Technique: Unstoppable Force
 
 - As an action, you spend 5 qi points to blast an enemy with the power of your qi. The enemy must make a DEX save versus your cultivation DC or suffer 7d12 force damage and be hurled 100ft away from you, falling prone. If the enemy hits a wall, they suffer additional bludgeoning damage depending on the properties of the wall (DM discretion). Upon a successful save, they take half damage, are only launched 15 feet, and do not fall prone.
+
+## Path Law: Indefatigable Assault
+
+- You cannot be moved, pushed, pulled, teleported, or otherwise displaced by any means unless you choose to be. Even effects that alter terrain or space (such as earthquake, banishment, or gravitational manipulation) leave you untouched, as your body asserts its claim on space.
+- As a bonus action, spend 2 qi points to force all hostile creatures within 15 feet to make a Strength saving throw against your Cultivation DC. On a failure, they are pulled adjacent to you and cannot move away from you until the start of your next turn. On a success, they are unaffected.
+	- You may then make a single unarmed strike against one of the affected creatures as part of the same bonus action.

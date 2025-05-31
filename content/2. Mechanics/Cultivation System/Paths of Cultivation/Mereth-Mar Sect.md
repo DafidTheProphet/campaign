@@ -17,8 +17,14 @@
 
 - Your swiftness on the battlefield lets you weave through enemies without consequence. You gain 10ft of movement speed and cannot provoke attacks of opportunity. 
 - If an enemy makes an opportunity attack against an ally within 10ft, you may make an attack of opportunity against that enemy. If your attack lands, the enemy receives a penalty to their attack roll equal to your cultivation modifier. 
-- In addition, you may channel your speed to inflict extra damage. You gain a damage bonus on your next attack as defined by the following formula. y = x^(⅔), where x is the distance between your initial position and where you make your attack, and y is the damage bonus (rounded down)
+- In addition, you may channel your speed to inflict extra damage. You gain a damage bonus on your next attack as defined by the following formula. y = 4*erf(x/30), where x is the distance between your initial position and where you make your attack, and y is the damage bonus (rounded down)
 
 ## External Path Technique: 24 Plum Blossom Sword
 
-- As you swing your sword, your qi generates razor-sharp plum blossoms in the air around you. Upon making an attack, you may spend 4 qi points to create an aura that manifests in a 15ft radius from you. Enemies that either start their turn within the aura or move within the aura must make a dexterity saving throw or take 6d6 slashing damage. Upon a success, they take half damage. 
+- As you swing your sword, your qi generates razor-sharp plum blossoms in the air around you. Upon making an attack, you may spend 4 qi points to create an aura that manifests in a 15ft radius from you. Enemies that either start their turn within the aura or move within the aura must make a dexterity saving throw or take 6d6 slashing damage and suffer a -1 AC penalty until the end of their next turn. Upon a success, they take half damage. 
+
+## Path Law: Illusory Blade 
+
+- When you miss with a melee weapon attack, you may use your reaction to make a second attack. This attack deals half the normal damage, and the target must make a dexterity saving throw or have disadvantage on attack rolls during their next turn.
+- Whenever you take the Dodge action or move at least 10 feet on your turn, you create a false afterimage until the start of your next turn.
+	- The next attack that targets you before your next turn is made with disadvantage.
