@@ -2,7 +2,7 @@
 
 **Cultivation Modifier**: Strength or Dexterity \
 **Hit dice**: 2d10 per cultivation stage \
-**Hit points**: 2d10 (or 7) + Constitution modifier
+**Hit points**: 2d10 (or 11) + Constitution modifier
 
 
 ## Mountain Tempered Physical Body (Reforged Martial Body)

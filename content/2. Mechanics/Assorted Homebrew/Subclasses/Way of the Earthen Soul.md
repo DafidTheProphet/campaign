@@ -22,5 +22,5 @@ You gain the ability to use your internal energy to manipulate the surrounding e
 #### Modified Abilities
 A few spells have been modified to be more appropriate for this monastic tradition. These modified spells can only be cast by this monastic tradition using qi points.  None of these spells require the caster to possess material components, however, earthen terrain (stone, dirt, etc.) must be present within 60ft of the caster. 
 - Melf's Minute Meteors: Deals bludgeoning damage instead of fire damage. 
-- Stoneskin: Casting the spell does not require concentration. The caster must be on earthen terrain and can only cast the spell upon themselves. The duration is now 1 minute (10 rounds). 
+- Stoneskin: The caster must be on earthen terrain and can only cast the spell upon themselves. The duration is 1 minute (10 rounds). 
 - Wall of Stone: Casting the spell does not require concentration. The duration of this spell is 1 minute (10 rounds). 
