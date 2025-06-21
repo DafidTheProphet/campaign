@@ -43,5 +43,5 @@
 		- Defensive action (dodge/disengage)
 		- Retreat (dash)
 		- None of the above
-	- If your prediction is correct, they are stunned until the next turn, and take 5d10 psychic damage. 
+	- If your prediction is correct, their action is canceled, they are stunned until the next turn, and they take 5d10 psychic damage. 
 	- If your prediction is incorrect, you receive 2d10 psychic damage. 

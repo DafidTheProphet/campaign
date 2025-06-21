@@ -13,16 +13,16 @@ Born from the perilous forests of Lekrith, the Evyngar royal family's signature 
 
 ## Path Initiate Technique: Nine Earthly Hidden Weapons
 
-- As an action, you may throw a number of darts equal to your cultivation modifier at targets of your choosing. Make a single roll for all projectiles. If you have not taken this action on your turn, you may use your bonus action to throw one dart. You may dip darts in poisons you possess as a free action. This includes cutting yourself to use your blood poison.
+- As an action, you may throw a number of darts or daggers equal to your cultivation modifier at targets of your choosing. Make a single roll for all projectiles. If you have not taken this action on your turn, you may use your bonus action to throw one dart. You may dip darts in poisons you possess as a free action. This includes cutting yourself to use your blood poison.
 
 ## Internal Path Technique: Thousand Poisons Constitution
 The poisons in your body has been further refined by intensive cultivation. 
 
 - You subtract your cultivation modifier from any poison damage you receive. 
 - In addition, your blood poison becomes more potent. It now deals 3d6 poison damage per turn and the save DC increases to 16. 
-- You may elect to deal acid damage instead of poison damage when using your blood poison. If you choose to do so, the enemy does not suffer a movement speed penalty on a failed saving throw. 
+- You may elect to deal acid damage instead of poison damage when using your blood poison. If you choose to do so, the enemy does not suffer a movement speed penalty. 
 
-## External Path Technique: Seven Heavenly Daggers art
+## External Path Technique: Thirteen Heavenly Daggers
 
 - As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). Upon contact, an enemy must make a dexterity saving throw or take 7d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction.
 
