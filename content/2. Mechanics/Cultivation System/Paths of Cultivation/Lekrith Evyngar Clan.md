@@ -24,7 +24,7 @@ The poisons in your body has been further refined by intensive cultivation.
 
 ## External Path Technique: Thirteen Heavenly Daggers
 
-- As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). Upon contact, an enemy must make a dexterity saving throw or take 7d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction.
+- As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). Upon contact, an enemy must make a dexterity saving throw or take 7d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction. This lasts for 3 turns. 
 
 ## Path Law: Ten Thousand Poisons Constitution
 
