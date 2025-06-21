@@ -15,7 +15,7 @@ tags:
 | Nascent Soul             | 150 yrs           | 18        | +6             | Path Law, Inner Soul                                    |
 | Peerless Immortal        | Immortal          | 22        | +7             | Dao Culmination                                         |
 ## Cultivation Ability Checks
-Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. Your cultivation modifier determines the potency of your qi techniques. The Cultivation/Qi DC of your character is calculated using the following formula: 8 + Cultivation Proficiency + Cultivation Modifier. 
+Your cultivation modifier determines the potency of your qi techniques. Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. The Cultivation/Qi DC of your character is calculated using the following formula: 8 + Cultivation Proficiency + Cultivation Modifier. 
 
 ## Body Refinement
 As you advance in your cultivation, your constitution becomes more robust. You gain additional hit points per cultivation stage as determined by your cultivation path. Additionally, at the foundation establishment stage, all ability scores are raised to 13 if they were previously lower. 

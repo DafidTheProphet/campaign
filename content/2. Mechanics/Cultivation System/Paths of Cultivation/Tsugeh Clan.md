@@ -14,7 +14,7 @@
 
 ## Initiate Path Technique: Interdicting Talisman Array
 
-- As an action, you may spend 2 qi points to lay a trap below your feet. To detect the trap, the target may make a perception or arcana check versus your qi save dc. Any enemy who walks within 5ft of this trap must make a DEX save (Qi DC) or be paralyzed for 5 turns. The target may use an action to attempt a STR saving throw vs. Qi DC each turn to escape. The trap is active until it dissipates. 
+- As an action, you may spend 2 qi points to lay a trap below your feet. To detect the trap, the target may make a passive perception or arcana check versus your qi save dc. Any enemy who walks within 5ft of this trap must make a DEX save (Qi DC) or be paralyzed for 5 turns. The target may use an action to attempt a STR saving throw vs. Qi DC each turn to escape. The trap is active until a creature is trapped. 
 
 ## Internal Path Technique: Eyes of Crystal Clarity
 
@@ -26,7 +26,7 @@
 
 ## External Path Technique: Heaven and Earth Divine Net Formation
 
-- Using an action and spending 3 qi points, you disperse your qi to trap enemies and foes alike. All entities within a 60 foot radius are unable to leave the area. In addition, enemies have their movement speed halved and suffer a -2 AC penalty. Allies gain 10ft of movement speed and +2 AC. This lasts until the caster is incapacitated, or until dispelled in some other manner. 
+- Using an action and spending 3 qi points, you disperse your qi to trap friends and enemies alike. All entities within a 60 foot radius are unable to leave the area. In addition, enemies have their movement speed halved and suffer a -2 AC penalty. Allies gain 10ft of movement speed and +2 AC. This lasts until the caster is incapacitated, or until dispelled in some other manner. 
 
 ## Path Law: Unbreakable Diamond Psyche
 

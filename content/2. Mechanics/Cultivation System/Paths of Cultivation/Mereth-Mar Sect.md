@@ -7,7 +7,7 @@
 
 ## Mountain Tempered Physical Body (Reforged Martial Body)
 
-- Your body has been honed through grueling training on Mereth-Mar. You have advantage on acrobatics and athletics checks. In addition, you may use your reaction to add 3 points of AC upon receiving an attack. If their attack misses, you may make an attack of opportunity as a reaction. You may use this ability an amount of times equal to your qi proficiency modifier per day. 
+- Your body has been honed through grueling training on Mereth-Mar. You have advantage on acrobatics and athletics checks. In addition, you may use your reaction to add 3 points of AC upon receiving an attack. If their attack misses, you may make a free attack of opportunity. This AC bonus applies for only one attack. You may use this ability an amount of times equal to your qi proficiency modifier per day. 
 
 ## Plum Blossom Sword (Path Initiate Technique)
 
@@ -17,7 +17,7 @@
 
 - Your swiftness on the battlefield lets you weave through enemies without consequence. You gain 10ft of movement speed and cannot provoke attacks of opportunity. 
 - If an enemy makes an opportunity attack against an ally within 10ft, you may make an attack of opportunity against that enemy. If your attack lands, the enemy receives a penalty to their attack roll equal to your cultivation modifier. 
-- In addition, you may channel your speed to inflict extra damage. You gain a damage bonus on your next attack as defined by the following formula. y = 4*erf(x/30), where x is the distance between your initial position and where you make your attack, and y is the damage bonus (rounded down)
+- In addition, you may channel your speed to inflict extra damage. You gain a damage bonus on your next attack as defined by the following formula. y = 4\*erf(x/30), where x is the distance between your initial position and where you make your attack, and y is the damage bonus (rounded down to the nearest integer).
 
 ## External Path Technique: 24 Plum Blossom Sword
 
@@ -25,6 +25,6 @@
 
 ## Path Law: Illusory Blade 
 
-- When you miss with a melee weapon attack, you may use your reaction to make a second attack. This attack deals half the normal damage, and the target must make a dexterity saving throw or have disadvantage on attack rolls during their next turn.
+- When you miss with a melee weapon attack, you may spend 1 qi point make another attack. If this attack lands, The target must make a dexterity saving throw or have disadvantage on attack rolls during their next turn.
 - Whenever you take the Dodge action or move at least 10 feet on your turn, you create a false afterimage until the start of your next turn.
 	- The next attack that targets you before your next turn is made with disadvantage.
