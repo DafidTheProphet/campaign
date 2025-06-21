@@ -1,11 +1,11 @@
 ---
-title: Miscellaneous Rules Changes
+title: Rules Changes
 draft: false
 tags:
 ---
 # New Bonus Actions
 
-As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now take a bonus action instead of an action. If you choose to shove as a bonus action, you may only move them away 5ft, not knock them prone. Taking the shield master feet lets you do both as a bonus action.
+As in Baldur's Gate 3, shoving, dipping a weapon, and consuming a potion now take a bonus action instead of an action. If you choose to shove as a bonus action, you may only move them away 5ft, not knock them prone. Taking the shield master feat lets you do both as a bonus action.
 
 # Banned Spells
 - Silvery Barbs: It causes too much buffoonery. Imagine if an enemy mage just gave you disadvantage on a whim.
