@@ -1,4 +1,4 @@
-
+The Vagabond Union practices the path of the Unseen Wanderer. Those who never catch the eyes of the powerful are the best at gathering sensitive information. 
 
 # Path Features
 

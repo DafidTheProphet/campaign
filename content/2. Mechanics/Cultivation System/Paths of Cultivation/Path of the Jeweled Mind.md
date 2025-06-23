@@ -1,3 +1,4 @@
+The renowned Tsugeh clan from the mountains of Vhiarlat practice the path of the Jeweled Mind. Martial artists who follow this path hone their mind into weapons sharper than any sword. 
 
 # Path Features
 

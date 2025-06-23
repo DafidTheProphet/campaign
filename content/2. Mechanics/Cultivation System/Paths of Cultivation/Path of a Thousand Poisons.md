@@ -1,4 +1,4 @@
-Born from the perilous forests of Lekrith, the Evyngar royal family's signature martial art makes full use of the deadly poisons of their homeland. 
+Born from the perilous forests of Lekrith, the Evyngar royal family's signature martial art, the Path of the Thousand Poisons, makes full use of the deadly poisons of their homeland. 
 
 # Path Features
 
@@ -13,7 +13,7 @@ Born from the perilous forests of Lekrith, the Evyngar royal family's signature 
 
 ## Path Initiate Technique: Nine Earthly Hidden Weapons
 
-- As an action, you may throw a number of darts or daggers equal to your cultivation modifier at targets of your choosing. Make a single roll for all projectiles. If you have not taken this action on your turn, you may use your bonus action to throw one dart. You may dip darts in poisons you possess as a free action. This includes cutting yourself to use your blood poison.
+- As an action, you may throw a number of darts or daggers equal to your cultivation modifier at targets of your choosing. If you have not taken this action on your turn, you may use your bonus action to throw one dart. You may dip darts in poisons you possess as a free action. This includes cutting yourself to use your blood poison.
 
 ## Internal Path Technique: Thousand Poisons Constitution
 The poisons in your body has been further refined by intensive cultivation. 

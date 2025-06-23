@@ -1,5 +1,5 @@
 ---
-title: Reynald, (Former) Inspector of Naviej
+title: Reynald, Inspector of Naviej
 draft: false
 tags:
 ---

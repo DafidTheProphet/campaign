@@ -1,5 +1,5 @@
 ---
-title: Claude Stokes, (Former) Mayor of Naviej
+title: Claude Stokes, Mayor of Naviej
 draft: false
 tags:
 ---

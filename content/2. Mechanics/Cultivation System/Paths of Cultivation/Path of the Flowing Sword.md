@@ -1,3 +1,5 @@
+The Mereth-Mar Sect, masters of swordsmanship and commerce practice the path of the flowing sword. Their movement and grace is unparalleled among martial artists. 
+
 # Path Features
 
 **Cultivation Modifier**: Strength or Dexterity \

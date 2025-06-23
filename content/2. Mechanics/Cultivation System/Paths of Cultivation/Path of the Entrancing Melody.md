@@ -1,4 +1,4 @@
-The Hao clan martial arts use the user's charm and beauty to beguile foes, rather than dealing direct damage. Even the strongest warriors can fall victim to the charms of another.
+The Hao clan practices the path of the Entrancing Melody. This form of martial arts uses the user's charm and beauty to beguile foes, rather than dealing direct damage. Even the strongest warriors can fall victim to the charms of the flesh. 
 
 # Path Features
 
