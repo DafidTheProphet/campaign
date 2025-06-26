@@ -21,14 +21,14 @@ Your initial training under this tradition at 2nd level molds your mind to excel
 - **Targeted Attack**: The best debuff you can inflict upon an enemy is death. Your battlefield flexibility lets you sacrifice accuracy for damage. When wielding a weapon you are proficient in, you may sacrifice your proficiency bonus to attack rolls and gain a boost to damage equal to double your proficiency bonus. The wielder also suffers an effect that lasts until the start of their next turn. Roll a d6 and consult the table below to determine the effect.
 - **Adaptive Focus**: When you are wielding or are attuned to a weapon you are proficient with, you eschew the need for a magical focus. You still satisfy the non-monetary material component requirement for spells you cast.
 
-|d6|Outcome|
-|---|---|
-|1|-2 Penalty to DEX saves|
-|2|-1 Penalty to attack rolls|
-|3|+2 to all damage received|
-|4|Gain a level of exhaustion|
-|5|Roll 2d4 and suffer two of the above effects|
-|6|Nothing happens|
+| d6  | Outcome                    |
+| --- | -------------------------- |
+| 1   | -1 Penalty to DEX saves    |
+| 2   | -1 Penalty to attack rolls |
+| 3   | +2 to all damage received  |
+| 4   | -1 Penalty to INT saves    |
+| 5   | Nothing Happens            |
+| 6   | Nothing happens            |
 
 ## Extra Attack
 
