@@ -30,5 +30,8 @@ We will use a d10 to roll initiative instead of a d20. This makes building for h
 # Healing Potions
 If a potion of healing is used as a bonus action, you roll the dice to determine the amount of HP healed. If you use an action, or take the potion outside of combat, then you are healed for the maximum amount of HP (ex: 2d4+2 --> 10). 
 
+# Healing 
+If you are downed, then healed, you do not get to take your full turn on your next turn. Instead, you only have your full movement, and you may only use your action to dodge, disengage or dash. 
+
 # Hunter's Mark
 Hunter's mark does not require concentration. You may still recast the spell without expending a spell slot when the target drops to 0 hit points. The effect ends when the targeted creature drops to 0 hit points. 
