@@ -12,12 +12,12 @@ You sacrifice your defenses and inner well-being to inflict the maximum amount o
 - Until you reach core formation, your lifespan decreases as you cultivate. Upon reaching Qi refinement, your lifespan reduces by 10 years. It reduces by an additional ten years as you advance to Qi condensation and Foundation establishment. You do not gain the lifespan bonuses at these stages. 
 - You may pre-emptively strike an attacker as a reaction to prevent their attack.  When an enemy attacks you, you immediately respond with a melee counter-attack (can be a melee cantrip). If your attack lands, the enemy must make their own attack with disadvantage. If your attack doesn’t land, the enemy makes their attack with advantage. You may take this reaction a number of times equal to your cultivation proficiency bonus. 
 - Additionally, any temporary hit points you acquire are converted to a necrotic damage bonus added to a weapon attack. This bonus disappears upon landing a successful attack. You may only have a necrotic damage bonus from one source. 
-- Your cult’s reputation grants you advantage on intimidation checks, but disadvantage on persuasion checks.
 
 ## Path Initiate Technique: Vitality Harvest
 
 - Once per turn, you may spend a qi point as part of a melee attack roll to activate this ability. On a hit, you gain temporary hit points equal to half your damage. On a miss, you lose an additional qi point. Additionally, the target must succeed on a Constitution saving throw or suffer from a lingering effect:
 	- If the target fails the saving throw, it gains vulnerability to necrotic damage until the end of your next turn, as its life force is destabilized.
+- If you have used this ability the turn before, you may not use it on your current turn. 
 
 ## Internal Path Technique: Sacrificial Demonic Foundation
 
