@@ -4,7 +4,7 @@ Born from the perilous forests of Lekrith, the Evyngar royal family's signature 
 
 **Cultivation Modifier**: Dexterity \
 **Hit dice**: 2d8 per cultivation stage \
-**Hit points**: 2d8 (or 11) + Constitution modifier
+**Hit points**: 2d8 (or 9) + Constitution modifier
 
 ## Reforged Martial Body: Hundred Poisons Constitution
 

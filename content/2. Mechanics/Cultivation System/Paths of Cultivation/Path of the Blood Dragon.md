@@ -1,10 +1,10 @@
-In the Dominion of Sun and Moon, all who hope to gain power and status practice the path of the Blood Dragon.The practitioners of this path endure the harshest trials, betray their allies, and plunder resources to gain an edge over their opponent. 
+In the Dominion of Sun and Moon, all who hope to gain power and status practice the path of the Blood Dragon. The practitioners of this path endure the harshest trials, betray their allies, and plunder resources to gain an edge over their opponent. 
 
 # Path Features
 
 **Cultivation Modifier**: Constitution or Charisma \
 **Hit dice**: 2d10 per cultivation stage \
-**Hit points**: 2d10 (or 13) + Constitution modifier
+**Hit points**: 2d10 (or 11) + Constitution modifier
 
 ## Reforged Martial Body: Unhindered Destruction Constitution
 
