@@ -1,9 +1,9 @@
 ---
-title: Alchemist (Modified)
+title: Evyngar Alchemist
 draft: false
 tags:
 ---
-**_Deep within the forests of Lekrith, the Evyngar family has spent generations perfecting their poisonmaking and potionmaking craft. The biodiversity within their homeland grants them access to rare organic reagents not found on the rest of the continent. Even the most seasoned adventurers know not to cross a skilled Evyngar alchemist. _**
+***Deep within the forests of Lekrith, the Evyngar family has spent generations perfecting their poisonmaking and potionmaking craft. The biodiversity within their homeland grants them access to rare organic reagents not found on the rest of the continent. Even the most seasoned adventurers know not to cross a skilled Evyngar alchemist.*** 
 
 ## Tool Proficiency
 
