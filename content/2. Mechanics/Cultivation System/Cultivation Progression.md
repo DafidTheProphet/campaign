@@ -26,7 +26,7 @@ Each cultivation path has their own version of Reforged Martial Body, Path Initi
 ## Qinggong
 
 - Spend 1 qi point to gain a fly speed of equal to your cultivation stage times 10 (in ft.) for 2 rounds (Body Refinement is Stage 1, Qi Condensation is Stage 2, etc.).
-- Through meditative breathing, you regain part of your inner qi. You regain your qi points upon a short rest. 
+- Through meditative breathing, you regain part of your inner qi. You can regain your half of your qi points upon a short rest. This can be done twice per long rest. 
 
 ## Qi Intent
 - When you acquire this ability at qi condensation stage, any mundane weapon you wield becomes a +1 magical weapon. This bonus increases to +2 and +3 at foundation establishment and core formation stages.  You may apply these bonuses to any weapon. This bonus only applies if you have at least 1 qi point remaining.  

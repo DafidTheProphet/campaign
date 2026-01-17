@@ -28,7 +28,7 @@ The poisons in your body has been further refined by intensive cultivation.
 
 #### Needle Maelstrom
 
-- As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). This sphere can appear anywhere within 30 ft. Upon contact, an enemy must make a dexterity saving throw or take 10d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction. This lasts for 3 turns. 
+- As an action, spend 4 qi points to throw thirteen daggers in a cloud (5m sphere). This sphere can appear anywhere within 30 ft. Upon contact, an enemy must make a dexterity saving throw or take 14d4 damage and suffer the effects of any poison coating the daggers. You may use a bonus action to move the cloud 15 ft in any direction. This lasts for 3 turns. 
 
 #### Lionfish Mane
 

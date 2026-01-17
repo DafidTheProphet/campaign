@@ -43,6 +43,10 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 - You can make one unarmed strike as a bonus action.
 - If your monk weapon has a smaller hit die than your martial arts die, you may use your martial arts die instead.
 
+## Ki Points
+
+Qi points and Ki points are now treated as one resource. Add the Qi points and Ki points together to acquire your total Qi points. You regain Qi points as stated in [[Cultivation Progression]]. 
+
 ## Stunning Strike
 
 Starting at 5th level, you can interfere with the flow of qi in an opponent's body. Once per turn, when you hit another creature with a monk weapon or unarmed strike, you can spend 1 qi point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the start of your next turn. Upon a failure, the target's speed is halved and the next attack made against them is done so with advantage.
