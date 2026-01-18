@@ -11,7 +11,7 @@ The Setting
 
 Campaign Specific Mechanics
 - [[Cultivation Progression]]
-- [[List of Cultivation Paths]]
+- [[content/2. Mechanics/Cultivation System/Paths of Cultivation/index]]
 - [[Rules Changes]]
 - [[Custom Content Directory|Miscellaneous Custom Content]]
 - [Vendor Inventories](https://dafidtheprophet.github.io/campaign/2.-Mechanics/Vendor-Inventories/)

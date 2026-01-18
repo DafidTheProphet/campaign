@@ -1,5 +1,5 @@
 ---
-title: A Treatise on the Mereth-Mar Cataclysm and the Hypothesis of the God-Engine
+title: A Treatise on the Mereth-Mar Cataclysm
 draft: false
 tags:
 ---

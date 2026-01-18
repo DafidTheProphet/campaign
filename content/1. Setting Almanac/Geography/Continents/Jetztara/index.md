@@ -1,14 +1,11 @@
-
 ---
-title: "Jetztara Overview"
+title: Jetztara Overview
 draft: false
 tags:
-  - 
 ---
- 
 ## The History of Jetztara
 
-Jetztara is the largest and most geographically rich of the three continents. Directly in the center sits the Great Well, an enormous mountaintop lake. Legend has it that Mereth-Mar, a volcano said to reach the sun, exploded in a massive eruption, though in light of recent [[A Treatise on the Mereth-Mar Cataclysm and the Hypothesis of the God-Engine|evidence]], some academics dispute this theory. The entire continent was leveled in mere moments. The blast wave instantly killed any large fauna or flora. Ash filled the sky, leaving night and day indistinguishable. With the entire sky thick with ash, ceaseless rainstorms plagued the continent for a decade. 
+Jetztara is the largest and most geographically rich of the three continents. Directly in the center sits the Great Well, an enormous mountaintop lake. Legend has it that Mereth-Mar, a volcano said to reach the sun, exploded in a massive eruption, though in light of recent [[A Treatise on the Mereth-Mar Cataclysm|evidence]], some academics dispute this theory. The entire continent was leveled in mere moments. The blast wave instantly killed any large fauna or flora. Ash filled the sky, leaving night and day indistinguishable. With the entire sky thick with ash, ceaseless rainstorms plagued the continent for a decade. 
 
 Though this cataclysmic event destroyed most complex life on Jetztara, it transformed the continent into something far greater. The once imposing mountaintop is now a lake with tributaries dispersed in every direction. Its blast wave cleared all old growth and sent its innards across the continent. Deposits of ores and gemstones deep within the mountain now lay above ground. The volcanic ash enriched every corner of the continent, multiplying the amount of arable land. From nearby islands, birds flew in, carrying seeds from across Perditio. These seeds planted in the fertile soil, filling Jetztara with a variety of fruit-bearing trees and grain-bearing grasses.
 
@@ -23,10 +20,10 @@ This map will update every so often with the locations we discover during the ca
 
 ## Notable Countries and Landmasses
 
-- [[0. Archipelago Overview|The Archipelago of Mereth-Mar]]
-- [[0. Kingdom of Lekrith Overview| The Kindgom of Lekrith]]
-- [[0. Violet Mountain Empire Overview| The Violet Mountain Empire]]
-- [[0. Vhiarlat Overview|Vhiarlat Magocracy]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/The Archipelago of Mereth-Mar/index|The Archipelago of Mereth-Mar]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/Kingdom of Lekrith/index| The Kindgom of Lekrith]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/Violet Mountain Empire/index| The Violet Mountain Empire]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/Vhiarlat/index|Vhiarlat Magocracy]]
 	- [[Naviej]]
-- [[0. Dominion of Sun and Moon Overview|The Dominion of Sun and Moon]]
-- [[0. Diune Senate of Asmea Overview|The Diune Senate of Asmea]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/Dominion of Sun and Moon/index|The Dominion of Sun and Moon]]
+- [[content/1. Setting Almanac/Geography/Continents/Jetztara/The Diune Senate/index|The Diune Senate of Asmea]]
