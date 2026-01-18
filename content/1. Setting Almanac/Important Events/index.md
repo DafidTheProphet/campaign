@@ -1,8 +1,9 @@
 ---
-title: Timeline of Events
+title: Important Events
 draft: false
 tags:
 ---
+# Timeline
 
 - ~800 BJC: The Eruption of Heaven
 - 0 AJC: The Colonization of Jetztara

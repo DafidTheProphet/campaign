@@ -1,5 +1,5 @@
 ---
-title: Geography Overview
+title: Overview
 draft: false
 tags:
 ---
