@@ -5,4 +5,4 @@ tags:
 ---
 This map is intended for use in chapter 4 of the campaign. 
 
-![[spatre 1.png]]
+![[content/z_assets/spatre.png]]

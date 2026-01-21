@@ -1,5 +1,5 @@
 ---
-title: Cultivation Paths
+title: Paths of Cultivation
 draft: false
 tags:
 ---

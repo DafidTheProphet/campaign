@@ -5,13 +5,13 @@ Peruse the wiki at your pleasure. Everything should be searchable. As always, no
 
 The Setting
  - [[content/1. Setting Almanac/Geography/Overview|Geography]]
- - [Important Characters](https://dafidtheprophet.github.io/campaign/1.-Setting-Almanac/Important-Characters/)
- - [Factions](https://dafidtheprophet.github.io/campaign/1.-Setting-Almanac/Sect-and-Faction-Lore/)
- - [Pantheon](https://dafidtheprophet.github.io/campaign/1.-Setting-Almanac/Pantheon/)
+ - [[content/1. Setting Almanac/Important Events/index|Important Events]]
+ - [[content/1. Setting Almanac/Sect and Faction Lore/index|Sect and Faction Lore]]
+ - [[content/1. Setting Almanac/Pantheon/index|Pantheon]]
 
 Campaign Specific Mechanics
 - [[Cultivation Progression]]
-- [[content/2. Mechanics/Cultivation System/Paths of Cultivation/index]]
+- [[content/2. Mechanics/Cultivation System/Paths of Cultivation/index|Paths of Cultivation]]
 - [[Rules Changes]]
 - [[Custom Content Directory|Miscellaneous Custom Content]]
 - [Vendor Inventories](https://dafidtheprophet.github.io/campaign/2.-Mechanics/Vendor-Inventories/)
