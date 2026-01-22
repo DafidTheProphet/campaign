@@ -5,7 +5,9 @@ tags:
 ---
 ## What is Cultivation?
 
-Cultivation is a process in which one gathers refines the energy of the world to improve their mind, body, and soul. Ordinarily, the energies of the world are not compatible with the human body. The totality of the world is incomprehensible and uncontainable. Its truth is overwhelming to the human mind; its power is uncontainable in the human body. Cultivators must use techniques to interpret and refine the world's energy. Techniques embody a singular truth or ethos, and when used, alter the energy of the world to fit its image. The altered energy enhances the cultivator and molds them through the technique's ethos. 
+Cultivation is a process in which one gathers refines the energy of the world to improve their mind, body, and soul. Ordinarily, the energies of the world are not compatible with the human body. The totality of the world is incomprehensible and uncontainable. Its truth is overwhelming to the human mind; its power is uncontainable in the human body. 
+
+Cultivators must use techniques to interpret and refine the world's energy. Techniques embody a singular truth or ethos, and when used, alter the energy of the world to fit its image. The cultivator usually meditates, uses the technique to gather energy, alter it, and integrate it with their body, mind and soul. The altered energy enhances the cultivator and molds them through the technique's ethos. 
 
 Even when altered according to a technique, the human body can only withstand so much energy. To advance in power, cultivators must gather energy in stages. They begin at the body refinement stage, then progress sequentially to the qi gathering, foundation establishment, core formation, nascent soul, and peerless immortal stages. Each stage grants greater power than the previous stage, but the complexity and resources required to advance is even increases faster. 
 
