@@ -7,4 +7,4 @@ Thierry O'sha is the current head of the Tsugeh clan and its most powerful membe
  
 Bernard O'sha, his only son, is the youngest Tsugeh elder in the history of the clan.   
 
-His visions are of level 5 potency, and the trigger is unknown. 
+

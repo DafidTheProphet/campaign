@@ -7,6 +7,7 @@ The Setting
  - [[1. Setting Almanac/Geography/Overview|Geography]]
  - [[1. Setting Almanac/Important Events/index|Important Events]]
  - [[1. Setting Almanac/Sect and Faction Lore/index|Sect and Faction Lore]]
+ - [[1. Setting Almanac/Important Characters/index|Important Characters]]
  - [[1. Setting Almanac/Pantheon/index|Pantheon]]
  - [[Cultivation]]
 
