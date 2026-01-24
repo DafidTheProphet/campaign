@@ -9,7 +9,7 @@ tags:
 - 0 AJC: The Colonization of Jetztara
 - 673 AJC: The beginning of the Crucible
 - 727 AJC: The end of the Crucible
-- 730 AJC: The First Founding
+- 730 AJC: The Founding Edicts
 - 1168 AJC: The beginning of the Orthodox-Demonic war
 - 1198 AJC: The disappearance of the Lament of the Unchosen
 - 1211 AJC: The end of the Orthodox-Demonic war
@@ -18,3 +18,4 @@ tags:
 - 1333 AJC: The Isle of Aenwidia declares independence
 - 5/14/1390 AJC: Our adventurers arrive in Naviej
 - 9/15/1391 AJC: The Great Schism
+- 1/1/1400 AJC: The Prophesied Cataclysm
