@@ -3,7 +3,7 @@ title: Iron Juggernaut Poison
 draft: false
 tags:
 ---
-## **Iron Juggernaut Poison
+## Iron Juggernaut Poison
 
 _Poison (Injury), Very Rare_
 
