@@ -9,16 +9,16 @@ tags:
 | ------------------------ | ----------------- | --------- | -------------- | ------------------------------------------------------- |
 | Level                    | Lifespan Increase | Qi Points | Qi Proficiency | Features                                                |
 | Body Refinement          | 10 yrs            | 2         | +2             | Reforged Martial Body, Qinggong                         |
-| Qi Condensation          | 25 yrs            | 6         | +3             | Path Initiate Technique, Qi Intent                      |
-| Foundation Establishment | 50 yrs            | 10        | +4             | Internal Path Technique, Qi Enhanced Strikes            |
-| Core Formation           | 80 yrs            | 14        | +5             | External Path Technique, Qi Defense, Supernatural Speed |
-| Nascent Soul             | 150 yrs           | 18        | +6             | Path Law, Inner Soul                                    |
+| Qi Condensation          | 15 yrs            | 6         | +3             | Path Initiate Technique, Qi Intent                      |
+| Foundation Establishment | 25 yrs            | 10        | +4             | Internal Path Technique, Qi Enhanced Strikes            |
+| Core Formation           | 50 yrs            | 14        | +5             | External Path Technique, Qi Defense, Supernatural Speed |
+| Nascent Soul             | 100 yrs           | 18        | +6             | Path Law, Inner Soul                                    |
 | Peerless Immortal        | Immortal          | 22        | +7             | Dao Culmination                                         |
 ## Cultivation Ability Checks
 Your cultivation modifier determines the potency of your qi techniques. Your cultivation modifier is one of your ability score modifiers as defined by your cultivation path. The Cultivation/Qi DC of your character is calculated using the following formula: 8 + Cultivation Proficiency + Cultivation Modifier. 
 
 ## Body Refinement
-As you advance in your cultivation, your constitution becomes more robust. You gain additional hit points per cultivation stage as determined by your cultivation path. Additionally, at the foundation establishment stage, all ability scores are raised to 13 if they were previously lower. 
+As you advance in your cultivation, your constitution becomes more robust. You gain additional hit points per cultivation stage as determined by your cultivation path, and cumulative increases to your lifespan. Additionally, at the foundation establishment stage, all ability scores are raised to 13 if they were previously lower. 
 
 ## Path Techniques
 Each cultivation path has their own version of Reforged Martial Body, Path Initiate Technique, Internal Path Technique, External Path Technique, Path Laws, and Dao Culmination. 

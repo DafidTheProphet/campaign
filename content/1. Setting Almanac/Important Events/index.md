@@ -10,9 +10,9 @@ tags:
 - 673 AJC: The beginning of the Crucible
 - 727 AJC: The end of the Crucible
 - 730 AJC: The First Founding
-- 1018 AJC: The beginning of the Orthodox-Demonic war
-- 1098 AJC: The disappearance of the Lament of the Unchosen
-- 1111 AJC: The end of the Orthodox-Demonic war
+- 1168 AJC: The beginning of the Orthodox-Demonic war
+- 1198 AJC: The disappearance of the Lament of the Unchosen
+- 1211 AJC: The end of the Orthodox-Demonic war
 - 1291 AJC: The invention of airships
 - 1292 AJC: The colonization of Aenwidia
 - 1333 AJC: The Isle of Aenwidia declares independence
