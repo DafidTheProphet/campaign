@@ -1,5 +1,5 @@
 ---
-title: Setting Almanac
+title: 1. Setting Almanac
 draft: false
 tags:
 ---
