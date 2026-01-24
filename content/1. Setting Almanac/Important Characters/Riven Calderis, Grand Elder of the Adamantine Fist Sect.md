@@ -3,4 +3,8 @@ title: Riven Calderis, Grand Elder of the Adamantine Fist Sect
 draft: false
 tags:
 ---
-He is always ready for a fight. 
+Riven was born after the throes of war, and his destiny was quite mundane. As the son of a prominent elder of the Guiding Palm sect, he was subjugated to little physical conflict throughout his childhood. As part of his training, he bandied words with senators and wrote detailed bureaucratic reports. His tutors' efforts were in vain. No amount of busywork could prepare Riven for the unending slog of paperwork to come. 
+
+The independence of the Free Isle of Aenwidia was recognized when he was only 14, barely after his onset of puberty. Airship trade had begun its rapid expansion, and modernization was rapidly approaching Asmea. Out of obligation toward his clan and his guiding ethos, he sought the battleground of pen and paper. He drafted building permits and registered new trading vessels. At the end of a particularly busy day, an entrepreneur from the Isle of Aenwidia arrived and applied to register seven airships at once. After setting those on his desk, the entrepreneur produced the dreaded writ of urgency. Channeling his calmness, he completed application after application. By sheer luck, he managed to finish all the paperwork and saw it vetoed the next morning. From that moment forward, he swore to never fill out paperwork again. He retreated to the mountains, where he tempered his body, and emerged as a disciple of the Adamantine Fist. 
+
+Now 57 years old, he is the Grand Elder of the Adamantine Fist sect. Along with Pontiff Alenias Solvere, they preside over the Diune Republic of Asmea. Mirroring Riven's dislike of Alenias, their governing philosophies clash, and their supporters follow suit. Continuous disagreements deadlock the senate, much to his chagrin. Very little gets through this great deliberative body, and what survives is often vetoed soon after. 
