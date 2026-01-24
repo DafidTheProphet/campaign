@@ -15,5 +15,5 @@ Campaign Specific Mechanics
 - [[Cultivation Progression]]
 - [[2. Mechanics/Cultivation System/Paths of Cultivation/index|Paths of Cultivation]]
 - [[Rules Changes]]
-- [[Custom Content Directory|Miscellaneous Custom Content]]
+- [[2. Mechanics/Assorted Homebrew/index|Assorted Homebrew]]
 - [[2. Mechanics/Vendor Inventories/index|Vendor Inventories]]

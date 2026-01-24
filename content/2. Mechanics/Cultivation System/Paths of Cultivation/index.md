@@ -14,9 +14,10 @@ All cultivation paths that appear in the campaign are listed below. Some paths a
 - [[Path of the Jeweled Mind]]
 - [[Path of the Entrancing Melody]]
 - [[Path of the Blood Dragon]]
+- [[Path of the Unseen Wanderer]]
 
 ## Dungeon Master Exclusive Paths
 
-- The Path of the Unchosen
+- Path of the Unchosen
 - Unhindered Cataclysm Arts
 - Nine Everlasting Spirit Divine Arts
